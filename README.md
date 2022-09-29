@@ -13,6 +13,6 @@ Dataset link: [**Kaggle**](https://www.kaggle.com/code/mmmarchetti/deep-fake-cha
 
 Inception-ResNet-v2 pretrained model was used to classify real or fake. 
 
-| Model | Accuracy (%)
+| **Model** | **Accuracy (%)**
 | :-------- | :------- 
 | Inception-ResNet-v2 | 91.2% 
